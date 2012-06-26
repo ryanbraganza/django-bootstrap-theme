@@ -1,0 +1,2 @@
+recursive-include bootstrap_theme/static *.js *.css *.png
+recursive-include bootstrap_theme/templates *.html *.txt
