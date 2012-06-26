@@ -2,7 +2,7 @@ import os
 from setuptools import setup, find_packages
 
 setup(
-    name='bootstrap_theme',
+    name='django-bootstrap-theme',
     version='0.1',
     author='Luke Hodkinson',
     author_email='furious.luke@gmail.com',
