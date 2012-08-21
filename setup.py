@@ -9,7 +9,7 @@ setup(
     maintainer='Luke Hodkinson',
     maintainer_email='furious.luke@gmail.com',
     url='https://github.com/furious-luke/bootstrap_theme',
-    description='A django application for describing addresses.',
+    description='A django theme using twitter bootstrap.',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     classifiers = [
         'Development Status :: 3 - Alpha',
